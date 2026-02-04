@@ -1,7 +1,7 @@
-# 📈 Stock Analysis Dashboard Project
+#  Stock Analysis Dashboard Project
 I'm excited to share my latest data analysis project: an interactive Stock Analysis Dashboard! This project demonstrates my skills in data processing, analysis, and visualization using a powerful combination of SQL, Python, and Microsoft Excel.
 
-📊 Project Overview
+ Project Overview
 The goal of this project was to analyze historical stock data for several major tech companies (AAPL, GOOG, MSFT, NFLX) and visualize key metrics in a clear, concise, and interactive dashboard.
 
 Key Metrics & Insights Visualized:
@@ -19,7 +19,7 @@ Monthly Price Range: Showing the spread between high and low prices for the mont
 
 Scatter Plot of Daily Return vs. Volume: Exploring the relationship between trading activity and returns.
 
-🛠️ Tools and Technologies
+ Tools and Technologies
 This project utilized a complete data pipeline, from raw data to final visualization:
 
 1. Data Preparation & Cleaning (Microsoft Excel):
@@ -46,5 +46,5 @@ The final dashboard was created by connecting to the processed data source and b
 
 <img width="1375" height="751" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/b41aee29-bf33-41b5-bb44-2c061648ae5d" />
 
-✨ Learnings and Takeaways
+ Learnings and Takeaways
 This project reinforced my ability to manage a full data lifecycle: starting with raw data, performing robust processing and engineering in Python and SQL, and culminating in a highly informative and engaging business intelligence dashboard. It was a great exercise in translating complex financial data into actionable visual insights.
